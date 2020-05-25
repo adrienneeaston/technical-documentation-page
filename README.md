@@ -1,6 +1,6 @@
 # technical-documentation-page
 
-## Documentation
+## Documentation Template
 
 ### Author: Adrienne Easton
 
@@ -15,7 +15,7 @@
 * Media queries
 
 ### Description
-This website is a page for technical documentation, done as code practice. The user stories and test suite were created by Free Code Camp.
+This website is a template page for technical documentation, done as code practice. The user stories and test suite were created by Free Code Camp.
 
 ### User Stories
 * User Story #1: I can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation).
