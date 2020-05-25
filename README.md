@@ -10,7 +10,9 @@
 ### Skills Practiced
 * HTML
 * CSS
-* 
+* Familiarity with documentation
+* Vertical nav bar
+* Media queries
 
 ### Description
 This website is a page for technical documentation, done as code practice. The user stories and test suite were created by Free Code Camp.
