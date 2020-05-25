@@ -1,0 +1,39 @@
+body {
+  background: whitesmoke;
+  display: flex;
+}
+
+.main-section {
+  margin: 50px;
+}
+
+#navbar {
+  border: 5px solid darkblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-basis: 280px;
+}
+
+.nav-link {
+  border: 1px solid darkblue;
+  font-size: 30px;
+  padding: 10px;
+  color: black;
+  text-decoration: none;
+}
+
+#navbar header {
+  padding: 10px;
+}
+
+header {
+  font-size: 40px;
+}
+
+@media (max-width: 600px) {
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+}
